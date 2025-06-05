@@ -3,7 +3,7 @@
 Для початку, задамо ім'я та електронну пошту користувача. В якості імені введемо "Vladislav", а в якості пошти - "vladkostuk96@gmail.com".
 Також встановимо main як гілку за замовчуванням, та увімкнемо автоматичне переведення рядків:
 
-![image alt](https://github.com/VladislavKostyuk-1/RPKS-lb1/blob/8db9830f12d1fe209a453be14a684461beec0639/Screenshots/2.1.jpg)
+![image alt](https://github.com/Vladislav-2188/LabWork-1/blob/d08e16405b96b24ea237d35e4f587747c6e3e78a/Screenshots/2.1.jpg)
 
 У папці repositories, створимо порожню папку work, в цій папці за допомогою команди echo створимо файл hello.html з наступним текстом: "Hello, World!":
 
